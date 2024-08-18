@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nitchmol.github.io/sitemap.html.gz
+Sitemap: https://nitchmol.github.io/app/sitemap.html.gz
+Sitemap: https://nitchmol.github.io/assets/sitemap.html.gz
+Sitemap: https://nitchmol.github.io/css/sitemap.html.gz
+Sitemap: https://nitchmol.github.io/includes/sitemap.html.gz
+Sitemap: https://nitchmol.github.io/item/sitemap.html.gz
+Sitemap: https://nitchmol.github.io/src/sitemap.html.gz
